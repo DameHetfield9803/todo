@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div.main{
+    @apply container min-w-full flex-auto text-center mx-auto p-2;
+}
